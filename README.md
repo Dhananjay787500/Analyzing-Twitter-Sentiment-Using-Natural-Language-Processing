@@ -42,8 +42,7 @@ twitter-sentiment-nlp/
 ## ⚙️ Installation & Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/twitter-sentiment-nlp.git
-   cd twitter-sentiment-nlp
+   git clone https://github.com/Dhananjay787500/Analyzing-Twitter-Sentiment-Using-Natural-Language-Processing.git
 
 2. **Install dependencies**
 
